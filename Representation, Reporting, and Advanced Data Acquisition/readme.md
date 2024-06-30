@@ -1,4 +1,4 @@
-Representation, Reporting, and Advanced Data Acquisition
+Representation and Reporting
 
 A copy of the interactive Tableau dashboard can be found in the Tableau Public link below:
 
